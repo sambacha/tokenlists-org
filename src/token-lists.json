@@ -3,6 +3,10 @@
     "name": "1inch",
     "homepage": ""
   },
+    "https://raw.githubusercontent.com/sambacha/yearn-finance-tokenlist/master/tokens.json": {
+    "name": "Yearn Finance",
+    "homepage": ""
+  },
   "tokenlist.aave.eth": {
     "name": "Aave Token List",
     "homepage": ""
